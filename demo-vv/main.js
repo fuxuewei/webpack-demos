@@ -1,0 +1,1 @@
+document.write("<h1> welcome to vv's webpack demo </h1>")
